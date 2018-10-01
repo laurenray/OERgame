@@ -65,6 +65,7 @@ def game():
 	if activity == "1":
 		print("Ah, the decision making process is much easier!")
 		print("The team is able to quickly determine the faculty members who are most deserving of the grant awards.")
+		print("\n")
 		print("A few months later, you decide to create a survey to distribute to faculty on campus, to find out more about their attitudes towards OER adoption and creation.")
 		print("Your survey generates interesting insights into the faculty mindset regarding OERs. Through this survey, you learn that a few departments stand out as having faculty eager to learn more about open textbook adoption and publishing. What should you do?")
 		print("1. Use the data to start a conversation with the faculty who expressed interest about ways in which the library could support them.")
