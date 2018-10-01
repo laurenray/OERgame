@@ -55,6 +55,7 @@ def game():
 		else:
 			wrong_input()
 
+	print("\n")
 	print("Good news, %s! The Dean of Libraries has secured internal grant funding to offer stipends to faculty for creating OERs. You assemble a team made up of library and campus support services, to help gather and review faculty proposals. There are differences of opinion about how award winners should be judged. You:" % (name))
 	print("1. Decide to develop a rubric, based on the cost savings impact for students, frequency of course offerings, and distribution of subject area.")
 	print("2. Deliberate over hundreds of coffee-fueled meetings, through lengthy disagreements and head scratching.")
