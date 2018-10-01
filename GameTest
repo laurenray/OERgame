@@ -37,18 +37,20 @@ def game():
 	if tree == "2":
 		print("Fortunately, after thinking it through, you realize you should reach out to others who can help.")
 		print("You end up connecting the faculty member with staff in instruction design and  accessible technologies, so that they can improve the OER’s accessibility.")
-		print("1. All the way to the top")
-		print("2. To the most sturdy limb")
+		print ("At a campus event you run into an assistant professor in a department you worked with a few years ago.  She has heard about your library’s efforts to encourage open educational practices and resource adoption.")
+		print ("During the conversation, she expresses interest in authoring an open resource for a course that she is teaching, but also concern about how it might affect her tenure review in two years. In particular, she is worried about people outside the institution adapting her work in a way that gets the information wrong, discrediting her name.")
+		print ("How do you respond?")
+		print("1. let her know you understand her concerns, and mention that even if something is published with standard copyright protections, that work *could* be taken out of context or quoted inaccurately.  You also let her know you’d be happy to meet with her and talk with her about her options for authoring, and licensing the work.")
+		print("2. feel flustered and quickly change the conversation, then back slowly away towards the snack table to get a refill of cheese and crackers….")
 
 		limb = input(">")
 
 		if limb == "1":
-			print("Are you fucking serious?!")
-			print("The top of the tree?!?")
-			print("Okaaaay....")
+			print("She takes you up on the offer, and you make a plan to talk again over coffee in a few weeks.")
+			print("Great job")
 		elif limb == "2":
-			print("That seems like a safe choice.")
-			print("Do you always play it so safe in life, mmmm?")
+			print("Interesting choice!")
+			print("Perhaps the extra cheese and crackers will fuel the follow-up email you’ll send to the faculty member.")
 		else:
 			wrong_input()
 
