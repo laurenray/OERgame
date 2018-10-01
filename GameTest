@@ -1,0 +1,96 @@
+def wrong_input():
+	print("Um, that wasn't an option....")
+
+print()
+print("What is your name?")
+
+	# store input in 'name'
+
+name = input("> ")
+
+	# use input in a print statement
+
+print("Hello %s" % (name))
+
+def game():
+
+	print("Welcome to the forest! Which tree do you want to climb?")
+	print("Type 1 for Oak tree")
+	print("Type 2 for Maple tree")
+
+	tree = input("> ")
+
+	if tree == "1":
+		print("There is a mean squirrel at the top of the tree.")
+		print("What do you do?")
+		print("1. Ignore it and keep climbing")
+		print("2. Jump down and run")
+
+		squirrel = input(">")
+
+		if squirrel == "1":
+			print("You're really brave, aren't you?")
+			print("Where did you get all this courage?")
+		elif squirrel == "2":
+			print("Uh oh. The squirrel is now pelting you with acorns.")
+		else:
+			wrong_input()
+
+	if tree == "2":
+		print("Congratulations! You've chosen the best tree in this forest.")
+		print("How high do you want to climb?")
+		print("1. All the way to the top")
+		print("2. To the most sturdy limb")
+
+		limb = input(">")
+
+		if limb == "1":
+			print("Are you fucking serious?!")
+			print("The top of the tree?!?")
+			print("Okaaaay....")
+		elif limb == "2":
+			print("That seems like a safe choice.")
+			print("Do you always play it so safe in life, mmmm?")
+		else:
+			wrong_input()
+
+	print("Ok, %s, what do you want to do next?" % (name))
+	print("1. Swim in the lake")
+	print("2. Climb a mountain")
+
+	activity = input("> ")
+
+	if activity == "1":
+		print("You really want to swim in that dirty lake?")
+		print("Well, alright.  Suit yourself...")
+		print("How's the water?")
+		print("1. Ugh disgusting. Get me out of here!")
+		print("2. I'm loving swimming around in all this moss and duck shit")
+
+		swim = input(">")
+
+		if swim == "1":
+			print("Better swim fast. Killer fish are chasing you!")
+			print("Whew you made it!")
+		elif swim == "2":
+			print("You're weird.")
+		else:
+			wrong_input()
+
+
+	if activity == "2":
+		print("Excellent choice. It's a beautiful day for hiking.")
+		print("Did you bring sturdy hiking boots?")
+		print("1. Yep, I've got em on now.")
+		print("2. Oh shit, I'm just wearing flip flops.")
+
+		shoes = input(">")
+
+		if shoes == "1":
+			print("You're well prepared! Enjoy the hike, you nerd.")
+		elif shoes == "2":
+			print("Uh oh, snakes on the mountain bit your feet and now you're dead.")
+		else:
+			wrong_input()
+while True:
+	game()
