@@ -1,6 +1,3 @@
-def wrong_input():
-	print("Um, that wasn't an option....")
-
 print()
 print("What is your name?")
 
@@ -76,8 +73,7 @@ def game():
 		if swim == "1":
 			print("Great work!")
 			print("Your conversations pay off and you now have a small cohort of instructors who are working towards open textbook adoption.")
-			print("Time for you and your OER team to take a vacation...."
-			print("Where should the team go?")
+			print("Time for you and your OER team to take a vacation. Where should the team go?")
 			print("1. Niagara Falls")
 			print("2. Hawaii")
 			
