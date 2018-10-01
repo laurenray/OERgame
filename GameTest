@@ -14,14 +14,14 @@ print("Hello %s" % (name))
 
 def game():
 
-	print("Welcome to the forest! Which tree do you want to climb?")
-	print("Type 1 for Oak tree")
-	print("Type 2 for Maple tree")
+	print("One of your first projects involves working with a new faculty member who is an eager supporter of open practices.  In fact, they have already developed content for an extensive OER project, and get in touch with you to get a few questions answered. You learn that their OER, which they plan to publish on their departmental website, has multiple YouTube videos embedded, but each of the videos aren’t in an accessible format. The videos don’t include transcription, and it doesn’t appear that you can access to the raw video file.  You")
+	print("Type 1 if you: Contact technical services staff in the library, as well as colleagues on campus who work with accessible technologies, to learn about tools and methods for making the videos more accessible, including transcription.")
+	print("Type 2 if you: Throw up your hands and walk away.")
 
 	tree = input("> ")
 
 	if tree == "1":
-		print("There is a mean squirrel at the top of the tree.")
+		print("Good news - the faculty member has what they need to get the video transcribed, and has guidance on making their OER (and future course materials) accessible.")
 		print("What do you do?")
 		print("1. Ignore it and keep climbing")
 		print("2. Jump down and run")
