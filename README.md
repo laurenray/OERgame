@@ -1,5 +1,6 @@
 # OERgame
-Game created for SPARC Open Education Leadership program, Module 1. 9.30.2018 
+Game created for SPARC Open Education Leadership program
+Module 1. Assignment 1. "Create an Open Educational Resource" 9.30.2018 
 
 My OER is in the form of a game. Last year I learned the very basics of the Python programming language in a workshop. At that time, I developed a simple game, which I adapted for this assignment. This was very much a learning experience for me, as I am a novice when it comes to coding. I created an open source repository here on GitHub for my game, and gave it a GNU General Public License v3.0. GitHub is a public repository that makes it possible to store, co-develop, and openly license code.  
 
@@ -14,6 +15,7 @@ TO PLAY THE GAME:
 4. The game will continue to take you through a series of questions, and you will respond by typing either a 1 or a 2 at the > prompt. 
 
 REFERENCES:
+
 West, Q. (2017). Librarians in the Pursuit of Open Practices. In R. Jhangiani & R. Biswas-Diener (Eds.), Open. London: Ubiquity Press. DOI: https://doi.org/10.5334/bbc.k 
 
 Walz, A. (2017). A Library Viewpoint: Exploring Open Educational Practices. In R. Jhangiani & R. Biswas-Diener (Eds.), Open. London: Ubiquity Press. DOI: https://doi.org/10.5334/bbc.l
