@@ -9,12 +9,13 @@ I used the real-life challenges of an academic librarian working in Open Educati
 
 TO PLAY THE GAME:
 1. Go to https://repl.it/@laurenray/OER-Game
-2. Click "Run" at the top of the screen
+2. Click "Run" (in green) at the top of the screen
 3. On the right side of the screen, you will be prompted to answer a question. Type your answer next to the > prompt. 
 4. The game will continue to take you through a series of questions, and you will respond by typing either a 1 or a 2 at the > prompt. 
 
-West, Q. 2017. Librarians in the Pursuit of Open Practices. In: Jhangiani R. & Biswas-Diener R, Open. London: Ubiquity Press. DOI: https://doi.org/10.5334/bbc.k 
+REFERENCES:
+West, Q. (2017). Librarians in the Pursuit of Open Practices. In R. Jhangiani & R. Biswas-Diener (Eds.), Open. London: Ubiquity Press. DOI: https://doi.org/10.5334/bbc.k 
 
-Walz, A. 2017. A Library Viewpoint: Exploring Open Educational Practices. In: Jhangiani R. & Biswas-Diener R, Open. London: Ubiquity Press. DOI: https://doi.org/10.5334/bbc.l
+Walz, A. (2017). A Library Viewpoint: Exploring Open Educational Practices. In R. Jhangiani & R. Biswas-Diener (Eds.), Open. London: Ubiquity Press. DOI: https://doi.org/10.5334/bbc.l
 
-Open Source Initiative. Licenses & Standards. Retrieved 9/30/18.  https://opensource.org/licenses
+Open Source Initiative. Licenses & Standards. Retrieved September 30, 2018, from https://opensource.org/licenses
