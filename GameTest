@@ -13,24 +13,24 @@ name = input("> ")
 def game():
 
 	print("Congratulations, %s! You’ve just been assigned the new role of Open Educational Resources Librarian, a position you share with other duties at your library, which is at a small liberal arts university. One of your first projects involves working with a new faculty member who is an eager supporter of open practices. Hooray! In fact, they have already developed content for an extensive OER project, and get in touch with you to get a few questions answered. You learn that their OER, which they plan to publish on their departmental website, has multiple YouTube videos embedded, but the videos aren’t in an accessible format. The videos don’t include transcription, and it doesn’t appear that you can access to the raw video file. You have a choice to make."% (name))
-	print("Type 1 if you: Contact technical services staff in the library, as well as colleagues on campus who work with accessible technologies, to learn about tools and methods for making the videos more accessible, including transcription.")
+	print("Type 1 if you: Contact technical services staff in the library, as well as colleagues on campus who work with accessible technologies, to learn about tools and methods for making the videos more accessible.")
 	print("Type 2 if you: Get overwhelmed thinking about the technical issues, and let the faculty know you’re not sure how to help them.")
 
 	tree = input("> ")
 
 	if tree == "1":
-		print("Good news - the faculty member has what they need to get the video transcribed, and has guidance on making their OER (and future course materials) accessible.")
-		print("You’re invited to speak at a the Student Government Association Spring meeting, to talk about textbook affordability and how the libraries can help. The students are well aware of the issue, and eager to get their instructors on board with open textbook adoption, to keep their course costs affordable.  After a brief presentation, what do you do?")
+		print("Great job! The faculty member has what they need to get the video transcribed, and has guidance on making their OER (and future course materials) accessible.")
+		print("A few weeks later, you’re invited to speak at a the Student Government Association Spring meeting, to talk about textbook affordability and how the libraries can help. The students are well aware of the issue, and eager to get their instructors on board with open textbook adoption, to keep their course costs affordable.  After a brief presentation, what do you do?")
 		print("1. Invite two leaders from the SGA to serve on the library’s Open Education Task Force.")
-		print("2. Get into a lengthy conversation about ways in which you can work together to raise awareness about textbook costs on campus.")
+		print("2. Engage the students in a conversation about ways in which you can work together to raise awareness about textbook costs on campus.")
 
 		squirrel = input(">")
 
 		if squirrel == "1":
-			print("Excellent work.")
+			print("Great idea!")
 			print("The SGA representatives become a crucial voice on the group, and help steer an textbook affordability advocacy campaign as a major project for the next year.")
 		elif squirrel == "2":
-			print("The conversation leads to a plan for collaboration for the next school year, including a social media #textbookbroke campaign, and a project in which the SGA funds awards to recognize instructors who use open resources in their classes.")
+			print("The conversation pays off, as it leads to a plan for collaboration for the next school year, including a social media #textbookbroke campaign, and a project in which the SGA funds awards to recognize instructors who use open resources in their classes.")
 		else:
 			wrong_input()
 
@@ -62,7 +62,7 @@ def game():
 
 	if activity == "1":
 		print("Ah, the decision making process is much easier!")
-		print("The team is able to quickly determine the faculty most deserving of the grant award.")
+		print("The team is able to quickly determine the faculty members who are most deserving of the grant awards.")
 		print("How's the water?")
 		print("1. Ugh disgusting. Get me out of here!")
 		print("2. I'm loving swimming around in all this moss and duck shit")
