@@ -14,8 +14,7 @@ def game():
 
 	print("Congratulations, %s! You’ve just been assigned the new role of Open Educational Resources Librarian, a position you share with other duties at your library, which is at a small liberal arts university.")
 	print("\n")
-	print("One of your first projects involves working with a new faculty member who is an eager supporter of open practices. Hooray! In fact, they have already developed content for an extensive OER project, and get in touch with you to get a few questions answered.")
-	print("You learn that their OER, which they plan to publish on their departmental website, has multiple YouTube videos embedded, but the videos aren’t in an accessible format. The videos don’t include transcription, and it doesn’t appear that you can access to the raw video file. You have a choice to make."% (name))
+	print("One of your first projects involves working with a new faculty member who is an eager supporter of open practices. Hooray! In fact, they have already developed content for an extensive OER project, and get in touch with you to get a few questions answered. You learn that their OER, which they plan to publish on their departmental website, has multiple YouTube videos embedded, but the videos aren’t in an accessible format. The videos don’t include transcription, and it doesn’t appear that you can access to the raw video file. You have a choice to make."% (name))
 	print("1. Contact technical services staff in the library, as well as colleagues on campus who work with accessible technologies, to learn about tools and methods for making the videos more accessible.")
 	print("2. Get overwhelmed thinking about the technical issues, and let the faculty know you’re not sure how to help them.")
 
