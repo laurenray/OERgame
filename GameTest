@@ -14,7 +14,11 @@ print("Hello %s" % (name))
 
 def game():
 
-	print("One of your first projects involves working with a new faculty member who is an eager supporter of open practices.  In fact, they have already developed content for an extensive OER project, and get in touch with you to get a few questions answered. You learn that their OER, which they plan to publish on their departmental website, has multiple YouTube videos embedded, but each of the videos aren’t in an accessible format. The videos don’t include transcription, and it doesn’t appear that you can access to the raw video file.  You")
+	print("One of your first projects involves working with a new faculty member who is an eager supporter of open practices.")  
+	print ("In fact, they have already developed content for an extensive OER project, and get in touch with you to get a few questions answered.")
+	print ("You learn that their OER, which they plan to publish on their departmental website, has multiple YouTube videos embedded, but the videos aren’t in an accessible format.")
+	print ("The videos don’t include transcription, and it doesn’t appear that you can access to the raw video file.")
+	print ("You have a choice to make.)
 	print("Type 1 if you: Contact technical services staff in the library, as well as colleagues on campus who work with accessible technologies, to learn about tools and methods for making the videos more accessible, including transcription.")
 	print("Type 2 if you: Throw up your hands and walk away.")
 
