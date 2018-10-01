@@ -7,6 +7,12 @@ I also shared the game on Repl.it, an online tool that allows me to share the co
 
 I used the real-life challenges of an academic librarian working in Open Education as the “subject” of my game. While the game presents the player with scenarios and decisions we all may encounter as OER advocates, it is not intended to be taken seriously!  I wanted the game to be somewhat humorous and fun. As a librarian who has the new responsibility of leading OER efforts at my institution, I have encountered some of the scenarios described in my game.  I also looked to articles and conversations with other OER librarian colleagues for inspiration in crafting these scenarios. 
 
+TO PLAY THE GAME:
+1. Go to https://repl.it/@laurenray/OER-Game
+2. Click "Run" at the top of the screen
+3. On the right side of the screen, you will be prompted to answer a question. Type your answer next to the > prompt. 
+4. The game will continue to take you through a series of questions, and you will respond by typing either a 1 or a 2 at the > prompt. 
+
 West, Q. 2017. Librarians in the Pursuit of Open Practices. In: Jhangiani R. & Biswas-Diener R, Open. London: Ubiquity Press. DOI: https://doi.org/10.5334/bbc.k 
 
 Walz, A. 2017. A Library Viewpoint: Exploring Open Educational Practices. In: Jhangiani R. & Biswas-Diener R, Open. London: Ubiquity Press. DOI: https://doi.org/10.5334/bbc.l
