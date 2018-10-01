@@ -63,33 +63,34 @@ def game():
 	if activity == "1":
 		print("Ah, the decision making process is much easier!")
 		print("The team is able to quickly determine the faculty members who are most deserving of the grant awards.")
-		print("How's the water?")
-		print("1. Ugh disgusting. Get me out of here!")
-		print("2. I'm loving swimming around in all this moss and duck shit")
+		print("A few months later, you decide to create a survey to distribute to faculty on campus, to find out more about their attitudes towards OER adoption and creation.")
+		print("Your survey generates interesting insights into the faculty mindset regarding OERs. Through this survey, you learn that a few departments stand out as having faculty eager to learn more about open textbook adoption and publishing. What should you do?")
+		print("1. Use the data to start a conversation with the faculty who expressed interest about ways in which the library could support them.")
+		print("2. Add the data to an annual report that gets read by a small group of administrators, then buried at the bottom of a file cabinet.")
 
 		swim = input(">")
 
 		if swim == "1":
-			print("Better swim fast. Killer fish are chasing you!")
-			print("Whew you made it!")
+			print("Great work!")
+			print("Your conversations pay off and you now have a small cohort of instructors who are working towards open textbook adoption.")
 		elif swim == "2":
-			print("You're weird.")
+			print("Fortunately, you remember to dig up that annual report and survey data and use it to generate a conversation with librarian colleagues about next steps in getting the faculty involved.")
 		else:
 			wrong_input()
 
 
 	if activity == "2":
 		print("A decision is reached, but now you and everyone on the team needs a vacation....")
-		print("Did you bring sturdy hiking boots?")
-		print("1. Yep, I've got em on now.")
-		print("2. Oh shit, I'm just wearing flip flops.")
+		print("Where should the team go?")
+		print("1. Niagara Falls")
+		print("2. Hawaii")
 
 		shoes = input(">")
 
 		if shoes == "1":
-			print("You're well prepared! Enjoy the hike, you nerd.")
+			print("Good choice! Enjoy OpenEd18!")
 		elif shoes == "2":
-			print("Uh oh, snakes on the mountain bit your feet and now you're dead.")
+			print("Good choice! Enjoy the beach!")
 		else:
 			wrong_input()
 while True:
