@@ -47,22 +47,22 @@ def game():
 
 		if limb == "1":
 			print("She takes you up on the offer, and you make a plan to talk again over coffee in a few weeks.")
-			print("Great job")
+			print("Great job!")
 		elif limb == "2":
 			print("Interesting choice!")
 			print("Perhaps the extra cheese and crackers will fuel the follow-up email you’ll send to the faculty member.")
 		else:
 			wrong_input()
 
-	print("Ok, %s, what do you want to do next?" % (name))
-	print("1. Swim in the lake")
-	print("2. Climb a mountain")
+	print("Good news, %s! The Dean of Libraries has secured internal grant funding to offer stipends to faculty for creating OERs. You assemble a team made up of library and campus support services, to help gather and review faculty proposals. There are differences of opinion about how award winners should be judged. You:" % (name))
+	print("1. Decide to develop a rubric, based on the cost savings impact for students, frequency of course offerings, and distribution of subject area.")
+	print("2. Deliberate over hundreds of coffee-fueled meetings, through lengthy disagreements and head scratching.")
 
 	activity = input("> ")
 
 	if activity == "1":
-		print("You really want to swim in that dirty lake?")
-		print("Well, alright.  Suit yourself...")
+		print("Ah, the decision making process is much easier!")
+		print("The team is able to quickly determine the faculty most deserving of the grant award.")
 		print("How's the water?")
 		print("1. Ugh disgusting. Get me out of here!")
 		print("2. I'm loving swimming around in all this moss and duck shit")
@@ -79,7 +79,7 @@ def game():
 
 
 	if activity == "2":
-		print("Excellent choice. It's a beautiful day for hiking.")
+		print("A decision is reached, but now you and everyone on the team needs a vacation....")
 		print("Did you bring sturdy hiking boots?")
 		print("1. Yep, I've got em on now.")
 		print("2. Oh shit, I'm just wearing flip flops.")
