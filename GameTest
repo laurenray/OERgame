@@ -76,6 +76,20 @@ def game():
 		if swim == "1":
 			print("Great work!")
 			print("Your conversations pay off and you now have a small cohort of instructors who are working towards open textbook adoption.")
+			print("Time for you and your OER team to take a vacation...."
+			print("Where should the team go?")
+			print("1. Niagara Falls")
+			print("2. Hawaii")
+			
+			vacation = input(">")
+			
+			if vacation == "1":
+				print("Good choice! Enjoy OpenEd18!")
+			elif vacation =="2":
+				print("Good choice! Enjoy the beach!")
+			else:
+				wrong_input()
+			
 		elif swim == "2":
 			print("Fortunately, you remember to dig up that annual report and survey data and use it to generate a conversation with librarian colleagues about next steps in getting the faculty involved.")
 		else:
