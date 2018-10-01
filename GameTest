@@ -20,6 +20,7 @@ def game():
 
 	if tree == "1":
 		print("Great job! The faculty member has what they need to get the video transcribed, and has guidance on making their OER (and future course materials) accessible.")
+		print("\n")
 		print("A few weeks later, you’re invited to speak at a the Student Government Association Spring meeting, to talk about textbook affordability and how the libraries can help. The students are well aware of the issue, and eager to get their instructors on board with open textbook adoption, to keep their course costs affordable.  After a brief presentation, what do you do?")
 		print("1. Invite two leaders from the SGA to serve on the library’s Open Education Task Force.")
 		print("2. Engage the students in a conversation about ways in which you can work together to raise awareness about textbook costs on campus.")
@@ -36,7 +37,7 @@ def game():
 
 	if tree == "2":
 		print("Fortunately, after thinking it through, you realize you should reach out to others who can help.")
-		print("You end up connecting the faculty member with staff in instruction design and  accessible technologies, so that they can improve the OER’s accessibility.")
+		print("You end up connecting the faculty member with staff in instructional design and  accessible technologies, so that they can improve the OER’s accessibility.")
 		print ("At a campus event you run into an assistant professor in a department you worked with a few years ago.  She has heard about your library’s efforts to encourage open educational practices and resource adoption.")
 		print ("During the conversation, she expresses interest in authoring an open resource for a course that she is teaching, but also concern about how it might affect her tenure review in two years. In particular, she is worried about people outside the institution adapting her work in a way that gets the information wrong, discrediting her name.")
 		print ("How do you respond?")
