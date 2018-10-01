@@ -1,5 +1,5 @@
 # OERgame
-Game created for SPARC Open Education Leadership program. 
+Game created for SPARC Open Education Leadership program, Module 1. 9.30.2018 
 
 My OER is in the form of a game. Last year I learned the very basics of the Python programming language in a workshop. At that time, I developed a simple game, and for this project, I adapted the game. This was very much a learning experience for me, as I am a true novice when it comes to coding. I created an open source repository here on GitHub for my game, and gave it a GNU General Public License v3.0. GitHub is a public repository that makes it possible to store, co-develop, and openly license code.  
 
