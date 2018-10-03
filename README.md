@@ -14,6 +14,7 @@ TO PLAY THE GAME:
 2. Click "Run" (in green) at the top of the screen
 3. On the right side of the screen, you will be prompted to answer a question. Type your answer next to the > prompt. 
 4. The game will continue to take you through a series of questions, and you will respond by typing either a 1 or a 2 at the > prompt. 
+5. Note: if you ever hit a dead end or want the game to start over, simply hit the "Stop" button at the top of the screen (a grey button) and hit "Run" (in green) again. 
 
 REFERENCES:
 
