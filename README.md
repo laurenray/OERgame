@@ -3,7 +3,7 @@ Game created for SPARC Open Education Leadership program
 
 Module 1. Assignment 1. "Create an Open Educational Resource" 9.30.2018 
 
-My OER is in the form of a game. Last year I learned the very basics of the Python programming language in a workshop. At that time, I developed a simple game, which I adapted for this assignment. This was very much a learning experience for me, as I am a novice when it comes to coding. I created an open source repository here on GitHub for my game, and gave it a GNU General Public License v3.0  <a href=" ">. GitHub is a public repository that makes it possible to store, co-develop, and openly license code.  
+My OER is in the form of a game. Last year I learned the very basics of the Python programming language in a workshop. At that time, I developed a simple game, which I adapted for this assignment. This was very much a learning experience for me, as I am a novice when it comes to coding. I created an open source repository here on GitHub for my game, and gave it a GNU General Public License v3.0  <a href="https://github.com/laurenray/OERgame/blob/master/LICENSE">. GitHub is a public repository that makes it possible to store, co-develop, and openly license code.  
 
 I also shared the game on Repl.it, an online tool that allows me to share the code and have other users run it (play the game).  Content published on a public repl, such as my game, are automatically published with an MIT license: https://repl.it/site/docs/misc/licensing. 
 
